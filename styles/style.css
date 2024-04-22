@@ -80,7 +80,7 @@ html {
 }
 
 .cover__title {
-    margin-bottom: 135px; 
+    margin-bottom: 135px;
     padding: 165px 50px 0px;
 }
 
@@ -98,12 +98,12 @@ html {
 
 .aligned-text_center {
     text-align: center;
-    line-height: 1; 
+    line-height: 1;
 }
 
 .aligned-text_right {
     text-align: right;
-    line-height: 1; 
+    line-height: 1;
     margin-left: 583px;
 }
 
@@ -123,7 +123,7 @@ html {
 }
 
 .cover__description-text {
-    font-weight: 400;      
+    font-weight: 400;
     font-size: 22px;
     line-height: 127%;
     text-transform: uppercase;
@@ -231,7 +231,7 @@ html {
 }
 
 .about {
-    padding: 146px 24px 0; 
+    padding: 146px 24px 0;
     display: flex;
 }
 
